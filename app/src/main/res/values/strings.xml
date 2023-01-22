@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CooperativeLearningDemo1</string>
+    <string name="randImageView">A random image</string>
+    <string name="nextButtonText">Next</string>
+</resources>
